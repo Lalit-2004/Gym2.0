@@ -1,0 +1,515 @@
+.mid{
+    display: block;
+    width: 62%;
+    font-size: xx-large;
+    font-family: 'Baloo Bhai', cursive;
+    top: 20px;
+    margin: -22px -7px 0px 550px;
+}
+
+.right{
+    position:absolute;
+    right:25px;
+    top:11px;
+    display:inline-block;
+    margin:12px 60px;
+    font-family: 'Baloo Bhai', cursive;
+    font-weight: 700;
+}
+.bar li{
+    display:flex;
+    list-style: none;
+    padding:5px;
+    font-size: x-large;
+}
+.bar ul li{
+    display:inline-block;
+}
+.bar li a{
+    text-decoration: none;
+    padding:20px ;
+    color:rgb(246, 241, 241);
+}
+.bar li a:hover{
+    color:rgb(247, 246, 246);
+    text-decoration: underline;
+    cursor:pointer;
+}
+.container1{
+    background-image: url("https://drlorishemek.com/wp-content/uploads/2014/10/weight-lifter.jpg");
+    background-size: cover;
+     background-repeat: no-repeat;
+     margin-bottom: 20px;
+     height:50em;
+     border:8px solid violet;
+}
+.form{
+border:4px solid burlywood;
+border-radius: 6px;
+height:200px;
+width:400px;
+display:block;
+margin:12px auto;
+}
+.form1{
+    display: block;
+    width:30%;
+    margin:10px auto;
+    top:px;
+}
+.left {
+display: inline-block;
+/* border: 2px solid red; */
+position: absolute;
+left: 60px;
+top: 20px;
+}
+
+.imgleft {
+    width:183px;
+    border-radius: 25px;
+}
+.logo{
+    margin-left:7px;
+    margin-top:20px;
+}
+
+.left div {
+line-height: 19px;
+font-size: 37px;
+text-align: center;
+color:#f8f8f6;
+}
+.btn:hover{
+color:rgb(251, 248, 248);
+text-decoration: underline;
+border-radius: 17px;
+}
+.btn{
+border-radius: 17px;
+height:39px;
+width:87px;
+border:none;
+text-decoration: none;
+padding: 10px;
+font-size: x-large;
+}
+.right a{
+color: white;
+}
+.container{
+display:block;
+margin:169px 0px  120px 25px;
+width:54%;
+border: 3px solid burlywood;
+border-radius: 6px;
+}
+.container h1{
+text-align: center;
+color:white;
+}
+.form-group input{
+display:block;
+padding:6px;
+height:35px;
+width:670px;
+border:4px solid #716c41;
+border-radius: 6px;
+font-size: large;
+font-family: 'Baloo Bhai', cursive;
+margin:10px auto;
+
+}
+.btn1{
+width:36%;
+padding: 10px;
+border:4px solid burlywood;
+border-radius: 10px;
+margin-top: 30px;
+margin-bottom: 20px;
+margin-left:320px;
+font-family: 'Baloo Bhai', cursive;
+font-size: x-large;
+font-weight: 700;
+}
+/* #########################################container 2 ######################################## */
+.container2{
+    width:100%;
+    height:auto;
+    background-image: url("https://th.bing.com/th/id/OIP.6MPGWVb_xO-ryJcnwnzhPQHaEo?w=249&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border:6px solid rgb(17, 9, 246);
+}
+.box1{
+    width:90em;
+    height:15em;
+    margin-top:61px;
+    margin-bottom: 70px;
+    margin-left: 5em;
+border:6px solid rgb(246, 9, 9);
+border-radius:8px;
+}
+.box1 p, .box2 p{
+    color:rgb(241, 4, 4);
+}
+.txt1{
+    width:42em;
+    height:10em;
+float:right;
+margin-top:10px;
+margin-right: 8px;
+object-fit: cover;
+overflow-y: scroll;
+}
+.txt2{
+    width:42em;
+    height:10em;
+float:left;
+margin-top:10px;
+margin-left:8px;
+object-fit: cover;
+overflow-y: scroll;
+}
+.img1{
+    width:43em;
+    height:15em;
+    float:left;
+    object-fit: cover;
+}
+.img2{
+    width:43em;
+    height:15em;
+    float:right;
+    object-fit: cover;
+}
+.h1{
+    color:rgb(237, 12, 12);
+    margin-top:0px;
+    font-size: x-large;
+    font-weight: 700;
+    font-style: italic;
+    font-family: 'Baloo Bhai', cursive;
+}
+.p{
+    color:rgb(248, 243, 243);
+    padding:5px;
+    font-size: x-large;
+    font-weight: 700;
+    font-style: italic;
+    font-family: 'Baloo Bhai', cursive;
+}
+.more{
+    border:8px solid violet;
+    border-radius: 12px;
+    text-decoration: none;
+   font-size: x-large;
+   background-color: pink;
+   padding:5px;
+}
+.more:hover{
+    border:4px solid violet;
+    border-radius: 12px;
+    cursor: pointer;
+text-decoration:underline;
+background-color: aqua;
+}
+/* #################################container 3 starts here###################### */
+.container3{
+    width: 95%;
+    height:35em;
+    padding:3em;
+    border-radius: 20px;
+    margin-top:20px;
+    background-image: url("https://th.bing.com/th/id/OIP.6MPGWVb_xO-ryJcnwnzhPQHaEo?w=249&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border:8px solid rgb(241, 7, 241);
+}
+.box4{
+    width:90em;
+    height:35em;
+margin:0px 60px 59px 57px;
+border:5px solid rgb(20, 20, 20);
+object-fit: cover;
+border-radius:8px;
+margin-left: 193px;
+}
+.img3{
+    width:43em;
+    height:33em;
+    float:left;
+    object-fit: cover;
+    margin: 6px 3px 10px 8px;
+}
+.txt3{
+    width:45em;
+    height:34em;
+float:right;
+margin: 6px 3px 10px 8px;
+object-fit: cover;
+}
+.form4 input{
+    display:block;
+    padding:6px;
+    height:55px;
+    width:670px;
+    border:4px solid #716c41;
+    border-radius: 6px;
+    font-size: large;
+    font-family: 'Baloo Bhai', cursive;
+    margin:30px auto;
+}
+.btn5{
+    position: absolute;
+    right:10px;
+}
+/* }
+###############################################container 4########################################### */
+.container4{
+    width: 95%;
+    height:20em;
+    padding:3em;
+    display:grid;
+    grid-template-columns: repeat(3,auto);
+    grid-gap:2em;
+    background-image: url("https://th.bing.com/th/id/OIP.6MPGWVb_xO-ryJcnwnzhPQHaEo?w=249&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin:10px;
+border-radius:40px;
+border:8px solid rgb(237, 7, 7);
+}
+.t1{
+    grid-template-rows: repeat(2,auto);
+    border-radius: 20px;
+}
+.i1{
+   display: block;
+   width:73%;
+   margin: 10px auto;
+    height:13em;
+    border-radius: 86px;
+}
+.t11{
+    margin-top: 10px;
+    height:17em;
+    font-family: 'Baloo Bhai', cursive;
+    font-size: x-large;
+    font-weight: 700;
+    padding:2px;
+}
+/* ####################################container 5######################################## */
+.container5{
+    width:100%;
+    height:20em;
+    margin-left:10px;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    background-image: url("https://th.bing.com/th?q=Grey+Geometric+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.4&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius:40px;
+    border:8px solid rgb(7, 241, 70);
+}
+
+.s1{
+    display: block;
+    width: 73%;
+    margin: -17px auto;
+    height: 13em;
+    border-radius: 86px;
+    /* margin-top: -10px; */
+    padding: 10px;
+    margin-top: 20px;
+}
+/* #################################container 6######################################## */
+.container6{
+    display:flex;
+    flex-wrap: wrap;
+    width:100%;
+    height:auto;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-image: url("https://th.bing.com/th?id=OIP.mJkVLrYy7mn9AcxXz4EcXAHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2");
+    border:8px solid rgb(197, 234, 13);
+}
+.container6 footer{
+    display: block;
+    width:30%;
+    margin:auto;
+    font-family: 'Baloo Bhai', cursive;
+    font-size: xx-large;
+    font-weight: 800;
+    padding:30px;
+    color:white;
+}
+body{
+    background-color: rgb(16, 15, 15);
+}
+.btn2{
+    width:53%;
+padding: 10px;
+border:4px solid burlywood;
+border-radius: 10px;
+margin-bottom: 20px;
+margin-left:17px;
+font-family: 'Baloo Bhai', cursive;
+font-size: x-large;
+font-weight: 700;
+}
+/* ######################################### media queries####################################### */
+@media screen and (max-width:500px ) and (min-width:0px) {
+    body{
+        width:100em;
+        height: 100em;
+        background-color: rgb(244, 241, 241);
+        
+    }
+    .container2{
+        width: 18%;
+        height: auto;
+        margin-left: -7px;
+    }
+.box1{
+    height: auto;
+    width: 89%;
+    margin-left: 12px;
+    margin-top: 60px;
+}
+.img1,.img2,.txt1,.txt2{
+    float:none;
+    width:100%;
+    text-align: center;
+}
+.container3{
+    height: auto;
+    width: 100%;
+    padding: 10px;
+    margin-left: -46px;
+}
+.box4{
+    width: 23%;
+    height: 74%;
+    justify-content: center;
+    margin-top: 73px;
+    margin-left: 40px;
+}
+.img3,.txt3{
+    float: none;
+    text-align: center;
+    width: 95%;
+    height: auto;
+}
+.form4 input{
+    width:80%;
+    height: auto;
+}
+.container4{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 40px;
+    margin-left: -645px;
+ }
+ .t1{
+     width: 100%;
+     height: auto;
+     /* margin: 1px 0px 0px -39px */
+ }
+ .i1{
+    float: none;
+    text-align: center;
+    width: 41%;
+ }
+ .t11{
+    height: auto;
+    display: block;
+    float: none;
+    text-align: center;
+    overflow-y: scroll;
+    font-size: small;
+    
+ }
+ .container5{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 40px;
+    margin-left: -94px;
+}
+.s1{
+    width: 36%;
+    height: auto;
+    margin-top: -7px;
+    margin-left: 81px;
+    padding: 20px;
+}
+.container6{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-left: -15px;
+ }
+ .container6 footer{
+    display: flex;
+    width: 87%;
+    height: 100%;
+    font-size: large;
+    margin-left: 187px;
+}
+.end{
+    margin-top: 42px;
+    margin-left: -195px;
+}
+.container1{
+    width:100%;
+    height:100%;
+    margin-left: -12px;
+}
+.container {
+    width: 24%;
+    height: auto;
+    margin-left: 14px;
+    }
+    .form-group input{
+        width:67%;
+        padding:14px;
+    }
+    .btn1{
+        margin-left:113px;
+        margin-top:6px;
+    }
+   
+    .logo{
+        margin-left:7px;
+        margin-top:20px;
+    }
+    .imgleft{
+        width:183px;
+        border-radius: 25px;
+    }
+    .right{
+        display: block;
+        width: 57%;
+        margin: 554px 73px;
+    }
+    .left{
+        display: block;
+        text-align: center;
+        margin-left: 45px;
+        margin-top: 31px;
+    }
+    .mid{
+        display: block;
+        width: 32%;
+        margin: 280px -23px;
+        font-size: 42px;
+    }
+    .bar li{
+        display:flex;
+       flex-direction: column;
+}
+}
